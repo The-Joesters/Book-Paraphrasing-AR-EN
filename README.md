@@ -1,4 +1,4 @@
-# Multilingual PDF Paraphrasing API
+# Paraphrasing Arabic and English PDF Books
 
 ## Overview
 
