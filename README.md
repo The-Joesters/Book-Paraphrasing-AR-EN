@@ -41,8 +41,8 @@ This Flask-based web application provides an API endpoint to paraphrase text ext
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/multilingual-pdf-paraphraser.git
-   cd multilingual-pdf-paraphraser
+   git clone https://github.com/The-Joesters/Book-Paraphrasing-AR-EN.git
+   cd Book-Paraphrasing-AR-EN
    ```
 
 2. **Create a Virtual Environment**
